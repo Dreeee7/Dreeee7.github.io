@@ -5,7 +5,7 @@ subtitle: 'welcom to my blog!'
 date:   2020-06-12
 tags: 第一篇 welcome
 description: ''
-color: 'rgb(154,133,255)'
+color: 'rgb(255,90,90)'
 cover: '../assets/test.png'
 ---
 
