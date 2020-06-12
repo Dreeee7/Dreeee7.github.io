@@ -8,7 +8,6 @@ url: 'https://dreeee7.github.io/' # your host
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
   标签: '/tags.html'
-  时间线: '/timeline.html'
   关于博主: '/about.html'
   友情链接: '/friendLink.html'
 
@@ -16,7 +15,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Dreeee7'
 NickName: '壮壮'
-webtitle: 'welcom to my blog'
+webtitle: 'web安全从入门到入狱'
 bio: 'https://blog.csdn.net/qq_42032483'
 about: true
 aboutyou: '练习时长两月半的渗透测试练习生'
