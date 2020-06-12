@@ -1,3 +1,18 @@
 ---
 layout: default
+title: Dreeee7
+page-title: welcome to my blog.
+home-title: 我们都在奔赴各自不同的人生！
+description: 漏洞 | vulnhub | 工具
 ---
+
+{% include header.html %}
+{% include boot.html %}
+<main>
+    {% include title.html %}
+    <ul class="post-list">
+      {% include posts_paginator.html %}
+    </ul>
+</main>
+{% include pageNav.html %}
+{% include footer.html %}
